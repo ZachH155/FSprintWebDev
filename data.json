@@ -1,0 +1,10 @@
+
+[
+    {"employee":"Billy", "deskNum":"78", "status":"Employee"},
+    {"employee":"Bob", "deskNum":"45", "status":"New Hire"},
+    {"employee":"Jamal", "deskNum":"22", "status":"Fired"},
+    {"employee":"Jackson", "deskNum":"89", "status":"Employee"},
+    {"employee":"Muhammed", "deskNum":"98", "status":"Quit"},
+    {"employee":"Selena", "deskNum":"99", "status":"New Hire"}
+
+    ]
